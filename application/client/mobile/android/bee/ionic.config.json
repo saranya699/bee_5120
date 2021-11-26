@@ -1,0 +1,7 @@
+{
+  "name": "bee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
